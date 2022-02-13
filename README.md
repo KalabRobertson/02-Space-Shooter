@@ -1,15 +1,21 @@
-# Project Name
+# The Derelict
 
-Context and date
+Project 02 for BL-MSCH-C220 at Indiana University-Bloomington. Created 2/12/2022
 
-Description
+Simple 2D arcade style space shooter.
 
 ## Implementation
-Which features you included
+Keyboard Control, Top-Down ship that can shoot asteroids and enemies.
 
 ## References
 
-## Future Development
+https://opengameart.org/content/animated-red-ship
 
+https://www.kenney.nl/assets/space-shooter-redux
+
+https://opengameart.org/content/explosion-sheet
+
+## Future Development
+None
 ## Created by
-Jason Francis
+Kalab Robertson
