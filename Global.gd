@@ -40,3 +40,6 @@ func update_lives(l):
 	var Lives = get_node_or_null("/root/Game/UI/HUD/Lives")
 	if Lives != null:
 		Lives.text = "Lives: " + str(lives)
+
+
+
