@@ -39,4 +39,6 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
+[node name="Placeholder" type="Sprite" parent="."]
+
 [connection signal="pressed" from="Play" to="." method="_on_Play_pressed"]
