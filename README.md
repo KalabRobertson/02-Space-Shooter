@@ -17,6 +17,8 @@ https://opengameart.org/content/explosion-sheet
 
 https://opengameart.org/content/space-music-3
 
+https://www.nasa.gov/mission_pages/chandra/westerlund-2.html
+
 ## Future Development
 None
 ## Created by
